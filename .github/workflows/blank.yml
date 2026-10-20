@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home Page</title>
+<style>
+header {
+text-align: center;
+}
+h1 {
+color: brown;
+font-family: 'Arial', sans-serif;
+font-size: 32px;
+font-weight: bold;
+text-align: center;
+}
+p {
+font-size: 16px;
+font-weight: bold;
+text-align: center;
+}
+figure {
+color: red;
+font-family: 'helvetica', sans-serif;
+font-size: 16px;
+font-weight: bold;
+text-align: center;
+}
+nav {
+font-size: 20px;
+text-align: center;
+}
+</style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to North Star Bakery</h1> 
+        <h1>Your Local Bakery for Fresh Baked Breads, Pastries, Cakes and More!</h1>
+<img src="../images/bakery-logo.png" width="200" alt="Bakery logo">   
+</header>
+<figure>
+<img src="../images/bakery-signature-loaf.png" width="300"
+alt="Signature loaf bread with dark color rye"> 
+<figcaption>Featured Item of the Week: Signature Loaf</figcaption>
+</figure>
+            <p>HOURS & LOCATION<br>
+            123 Main Street<br>
+Anytown, USA 12345<br>
+<br>
+Monday – Friday: 6am – 6pm<br>
+Saturday: 7am – 5pm<br>
+Sunday: 8am – 2pm<br>
+</p>
+<br>
+<br>
+<nav>
+<nav aria-label="Primary">
+<a href="index.html">Home</a>
+<a href="products.html">Products</a>
+<a href="about.html">About</a>
+<a href="contact.html">Contact Us</a>
+</nav>
+<br>
+<br>
+<footer>
+<nav aria-label="Footer">
+<a href="privacy.html">Privacy Policy</a>
+<a href="termsofuse.html">Terms of Use</a>
+</footer>
+
+
